@@ -6,13 +6,18 @@
 
                                                           
 
-Overview
+Overview:
+
+
 This project focuses on predicting the presence of heart disease in patients based on various medical attributes. We employed several classical machine learning algorithms, including Logistic Regression (LR), K-Nearest Neighbors (KNN), Support Vector Machine (SVM), Random Forest (RF), Decision Tree, XGBoost, and Gradient Boosting, to build predictive models.
 
-Dataset
+Dataset:
+
+
 The dataset used in this project is the "Heart Disease UCI" dataset, sourced from Kaggle. It contains various attributes such as age, sex, chest pain type, resting blood pressure, serum cholesterol levels, maximum heart rate achieved, and more. The target variable indicates the presence or absence of heart disease.
 
-Approach
+Approach:
+
 Data Preprocessing
 Before building the predictive models, we performed extensive data preprocessing steps, including handling missing values, feature scaling, and encoding categorical variables.
 
